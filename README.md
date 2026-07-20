@@ -1,6 +1,4 @@
 # login-basic-python-bruh
-This is just a very basic Python login and registration process :V—don’t expect it to replace Google Login 😭😭
-# login-basic-python-bruh
 
 This is just a very basic Python login and registration process :V
 Don't expect it to replace Google Login 😭😭
